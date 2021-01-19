@@ -1,4 +1,4 @@
-Oluwatosin Olanrewaju
+Oluwatosin Racheal Olanrewaju
 ============
 
 -------------------     ----------------------------
@@ -36,7 +36,7 @@ July 2019
 
     *Management and Entrepreneurial Innovation training at the Accra Business School.*
     
-    Feb. - Mar. 2018
+Feb. - Mar. 2018
 :   **YOUNG AFRICAN LEADERSHIP INITIATIVE**; (YALI RLC NIGERIA COHORT 4, WEST AFRICA).)
 
     *5 - weeks Online and Onsite leadership and Accountability Training, 
@@ -45,14 +45,27 @@ July 2019
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+Dec. 2019 – Apr. 2020
+:   **ImpactHER:** Lagos, Nigeria.
+    *Community Relations Analyst/Personal Assistant*
+    
+    • Assistant Duties: Scheduled travel arrangements, organized and scheduled meetings international, online calls using zoom meeting, free conference call, etc. 
+    • Digital Marketing: Interactive emails and newsletters, webinar hosting, and social media management. 
+    • Research, Data Analysis and Collation: Online research on relevant data for program implementation, product creation, and pitching. Company data analysis and reports. 
+    • Programs: Program planning, organizing and implementation in different countries with team members. 
+    • Proactively building and managing key customer relationships, further illustrating communication and problem solving.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Apr. 2018 – Jun. 2019
+:   **Centre for Community Empowerment and Sustainable Development (CESDEV):** Lagos, Nigeria.
+    *Programmes Assistant*
 
-* First item
-
+   • Administrative and Logistic Duties: Prepared project proposals, presentations and reports.
+   • Worked with team to prepare budgets.
+   • Managed projects assets and documents. 
+   • Project Onsite Activities: Assigned, Organize, and Monitored Project Staff and Volunteers.
+   • Marketing Plan Development and Market Research for Projects. 
+   • Fund raising and Media Campaign Activities for Organization Community Development Initiatives
+   
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
