@@ -4,7 +4,7 @@ Oluwatosin Racheal Olanrewaju
 -------------------     ----------------------------
 Address: 5 Araromi Street Yaba Lagos  Nigeria                 
 Email: tosraheal@gmail.com                   
-LinkedIn: [Link](www.linkedin.com/in/oluwatosin-olanrewaju-b42151113)
+LinkedIn: [Profile](www.linkedin.com/in/oluwatosin-olanrewaju-b42151113)
 Phone Number: +2347064457781
 -------------------     ----------------------------
 
@@ -34,7 +34,7 @@ June 2020
 July 2019
 :   **AFRICAN YOUNG LEADERS FELLOWSHIP PROGRAMME**; Accra Business School (Accra, Ghana.)
 
-    *Management and Entrepreneurial Innovation training at the Accra Business School.*
+    Management and Entrepreneurial Innovation training at the Accra Business School.
     
 Feb. - Mar. 2018
 :   **YOUNG AFRICAN LEADERSHIP INITIATIVE**; (YALI RLC NIGERIA COHORT 4, WEST AFRICA).)
@@ -68,16 +68,13 @@ Apr. 2018 – Jun. 2019
    • Project Onsite Activities: Assigned, Organize, and Monitored Project Staff and Volunteers.
    • Marketing Plan Development and Market Research for Projects. 
    • Fund raising and Media Campaign Activities for Organization Community Development Initiatives
-   
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
 Project Experience
 --------------------
 
 Hash Analytic Training Project
 :   **A Company's Attrition Case**
-    [Project Link](https://drive.google.com/file/d/1DeSIUUTfK0GT3TwJ55oimUawP4TUZa3A/view?usp=sharing).
+    [Project](https://drive.google.com/file/d/1DeSIUUTfK0GT3TwJ55oimUawP4TUZa3A/view?usp=sharing).
 
     * Contains Project Report.
     * Project Python File.
@@ -92,7 +89,7 @@ Programming Languages
 Certifications
 ----------------------------------------
 
-* • Digital & Social Media Marketing Strategist (Absolute Hearts)
+  • Digital & Social Media Marketing Strategist (Absolute Hearts)
   • Google Digital Skills for Africa (Haptics)
   • Google Analytic Certificate (Beginner and Advanced)
   • Digital Garage Certificate (Google Digital Garage)
