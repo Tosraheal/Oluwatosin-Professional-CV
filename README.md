@@ -4,7 +4,8 @@ Oluwatosin Olanrewaju
 -------------------     ----------------------------
 Address: 5 Araromi Street Yaba Lagos  Nigeria                 
 Email: tosraheal@gmail.com                   
-LinkedIn:[Link](www.linkedin.com/in/oluwatosin-olanrewaju-b42151113)
+LinkedIn: [Link](www.linkedin.com/in/oluwatosin-olanrewaju-b42151113)
+
 Phone Number: +2347064457781
 -------------------     ----------------------------
 
