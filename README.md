@@ -5,24 +5,42 @@ Oluwatosin Olanrewaju
 Address: 5 Araromi Street Yaba Lagos  Nigeria                 
 Email: tosraheal@gmail.com                   
 LinkedIn: [Link](www.linkedin.com/in/oluwatosin-olanrewaju-b42151113)
-
 Phone Number: +2347064457781
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Sept. 2009 – Sept. 2014
+:   **B.Sc, Microbiology**; OLABISI ONABANJO UNIVERSITY (Ago Iwoye, Ogun State)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Microbial Analysis Of Hair Dressing Equipments In A 
+    Sample Of Ago Iwoye Population*
+    
+Training
+---------
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Dec. 2020 - March 2021
+:   **Bertelsmann Tech Scholarship Challenge Course**; Udacity (Online Learning)
 
-    *Minor: Awesomeology*
+    *Nanodegree Program: Data Track*
+    
+June 2020 
+:   **Hash Analytic Internship**; Udemy (Online Learning)
+
+    *Data Analysis using Python. Data manipulation and visualization. 
+    Use of Notebooks: Jupyter, PyCharm and Applications: Tableau.*
+    
+July 2019
+:   **AFRICAN YOUNG LEADERS FELLOWSHIP PROGRAMME**; Accra Business School (Accra, Ghana.)
+
+    *Management and Entrepreneurial Innovation training at the Accra Business School.*
+    
+    Feb. - Mar. 2018
+:   **YOUNG AFRICAN LEADERSHIP INITIATIVE**; (YALI RLC NIGERIA COHORT 4, WEST AFRICA).)
+
+    *5 - weeks Online and Onsite leadership and Accountability Training, 
+    Ethics, Gender Diversity, Research and Civic Leadership.*
 
 Experience
 ----------
