@@ -80,21 +80,21 @@ Hash Analytic Training Project
     * Project Python File.
     * Problem Case Study
 
-Programming Languages
+**Programming Languages**
 :   **Python:** Used Pycharm, Jupyter.
-    Data Apps: Tableau, Alteryx
+   **Data Apps**: Tableau, Alteryx
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
 Certifications
 ----------------------------------------
 
-  • Digital & Social Media Marketing Strategist (Absolute Hearts)
-  • Google Digital Skills for Africa (Haptics)
-  • Google Analytic Certificate (Beginner and Advanced)
-  • Digital Garage Certificate (Google Digital Garage)
-  • Planning Monitoring and Evaluation (Philanthropy University)
-  • Mini Executive Master of Business Administration:
+  *Digital & Social Media Marketing Strategist (Absolute Hearts)
+  *Google Digital Skills for Africa (Haptics)
+  *Google Analytic Certificate (Beginner and Advanced)
+  *Digital Garage Certificate (Google Digital Garage)
+  *Planning Monitoring and Evaluation (Philanthropy University)
+  *Mini Executive Master of Business Administration:
 
 Skills
 ----------------------------------------
